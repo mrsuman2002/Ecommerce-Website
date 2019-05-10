@@ -9,7 +9,7 @@ Home Page: Shoppers_Island.html
 
 License:
 ===========
-Copyright Copyright (C) 2019 Suman Adhikari
+Copyright Copyright (C) 2019 Suman Adhikari, Sailesh Acharya, Sandesh Mainali & Sujan Neupane
 
 This file is part of Shopper Island E-Commerce Website.
 
@@ -17,4 +17,4 @@ E-Commerce Website is free software: you can redistribute it and/or modify it un
 
 E-Commerce Website is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-You should have received  `a copy of the GNU General Public License <https://github.com/mrsuman2002/Ecommerce-Website/blob/master/LICENSE.rst`_ along with the Webiste. If not, see http://www.gnu.org/licenses/.
+You should have received [a copy of the GNU General Public License](https://github.com/mrsuman2002/A_modular_Plugin-CodeChat/blob/master/LICENSE.rst) along with the Webiste. If not, see http://www.gnu.org/licenses/.
