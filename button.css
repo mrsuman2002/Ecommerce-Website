@@ -1,0 +1,19 @@
+.btn-add, .btn-update, .btn-account {
+  position: absolute;
+  color: black;
+  background: whitesmoke;
+  border: none;
+  font-family: Lato;
+  font-size: 14px;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 300;
+  transform: translateX(-50%);
+  left: 10%;
+  width: 14%;
+  height:5%;
+}
+.btn-add{top: 30%; }
+.btn-update{top:40%;}
+.btn-account{top:50%;}
+
